@@ -18,7 +18,7 @@ The data used for this project is sourced from [UCSD datasets](https://cseweb.uc
 4. **Results:** The findings are not just displayed, but also saved meticulously in a `.csv` file for future reference.
 
 ## Example 🌟
-_Place your example here._
+<img src="images/Picture1.png?raw=true"/>
 
 ## Citation 📝
 
